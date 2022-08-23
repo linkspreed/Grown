@@ -28,3 +28,9 @@
 # 16.08.2022
  - Today on August 16th, 2022 we connected and pushed **Grown** to the Cloudflare infrastructure.
     - This improves both **speed** and **safety**.
+
+# 09.08.2022
+ - Grown - the new application for business is in progress
+
+# 07.08.2022
+ - We're launching the content for Grown today after the site has always served as a preview. ⚡️
