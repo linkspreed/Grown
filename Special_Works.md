@@ -1,3 +1,6 @@
+### 22.10.2022 (announcement Grown)
+- We worked a bit on **Grown**.
+
 # 18.08.2022
  - I am very proud to be able to announce here today that Grown is finally operational. 🧡📂
  - The platform passed our hard court test and we test everything and every function. ✅📱
