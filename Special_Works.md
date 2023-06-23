@@ -1,3 +1,6 @@
+### 23.06.2023 (announcement Grown)
+- 🚀👨‍💻 Hey, Grown community! We're currently working on a new update for our platform and we can't wait to share it with you! What new features would you like to see included in this update? Let us know in the comments below! 💬 #GrownUpdates #StayTuned 🌱
+
 ### 19.06.2023 (announcement Grown)
 - 🎉🔥 Grown is back and better than ever! Our platform has been relaunched and is now live. However, we're not done yet! We're still working hard to improve the platform in the coming days. 💪 Have you checked out the new and improved Grown yet? #Grown #relaunch #onlinenow
 
