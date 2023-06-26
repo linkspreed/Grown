@@ -1,4 +1,4 @@
-# <img align="left" alt="Grown" width="250px" src="https://github.com/linkspreed/Grown/assets/102324985/36023f9f-4109-48a6-b913-3b48d56ac23a" draggable="false" /> ([Click to try 🚀](https://grown.tk/))
+# <img align="left" alt="Grown" width="250px" src="https://github.com/linkspreed/Grown/assets/102324985/36023f9f-4109-48a6-b913-3b48d56ac23a" draggable="false" /> ([Click to try 🚀](https://grown.tk/)) (v3.0)
 
 
 Grown 🌐 - expand your internet presence 🌱 and get in touch with your customers 🫂 - for companies and private users
