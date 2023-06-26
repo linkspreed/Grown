@@ -1,0 +1,158 @@
+VERSION 3.0 – RELEASED ON 26th JUNE, 2023
+-- ADDED: Hotel Booking Feature
+    -- Hotel Theme
+    -- Categories 
+    -- Coupon
+    -- Amenities
+    -- Rooms
+    -- Room Bookings
+    -- Booking report
+    -- Added it in Package
+    -- RTL support
+-- ADDED: Course Selling Feature
+    -- Course Theme
+    -- Instructors
+    -- Categories
+    -- Courses
+    -- Modules
+    -- Lesson
+    -- Lesson Content 
+        -- Drag & Drop Lesson Content Sorting
+        -- Quiz
+        -- Video
+        -- File
+        -- Code Snippet
+        -- text
+    -- Certificate
+    -- Course Compliance Settings
+    -- Enrolment
+    -- Enrolment Report
+    -- Added it in Package
+    -- RTL support
+-- ADDED: Donation Feature
+    -- Charity Theme
+    -- Categories
+    -- Causes
+    -- Donation
+    -- Report
+    -- Anonymous Donation
+    -- Added it in Package
+    -- RTL support
+-- ADDED: Portfolio Theme with RTL Support     
+-- ADDED: many untracked features
+-- FIXED: Base Color Issue 
+-- FIXED: features section image upload issue 
+-- FIXED: Hide Skills section from Dashboard for Theme 7 
+-- FIXED: Package Feature wise Sections show in 'Section Customization' of Tenant Dashboard
+-- FIXED: Forget Password Page Issue  
+-- FIXED: Basic Settings Update issue 
+-- Many more untracked Fixes
+VERSION 2.24 – RELEASED ON 1ST APRIL, 2023 (AN UPDATER & VIDEO WILL BE ADDED BY TOMORROW)
+- Upgraded all the plugin libraries
+VERSION 2.23 – RELEASED ON 16TH FEBRUARY, 2023
+- FIXED: missing language keywords in json
+- FIXED: Package upgrade / downgrade issue in User Details page of Admin Dashboard
+- FIXED: static version hero image not updating in Tenant
+- FIXED: summernote text edit image upload issue
+- FIXED: add to contact issue in vcard
+VERSION 2.2.1 – RELEASED ON 30TH JANUARY, 2023
+
+-- Changed folder structure to enhance securrity
+-- FIXED: Contact form details update issue
+-- FIXED: number of vcards in pricing plan
+-- FIXED: number of vcards in pricing plan
+-- FIXED: login / signup button showing issue once Ecommerce is disabled on current package
+-- FIXED: Recaptcha issue in vCard contact form
+-- FIXED: tenant's product checkout 500 error
+-- Fixed: website title echo issue in browser tab in Tenant Website
+-- FIXED: Tenant's product details issue fixed
+-- FIXED: from name issue in mail after product checkout / Changed Email Settings Position in Tenant Dashboard
+-- FIXED: Package change, remove, add error from Admin end
+-- FIXED: details button not showing in orders table of Tenant Customer
+-- FIXED: vcard contact form issue 
+-- FIXED: base currency symbol issue in product order invoice of Tenant
+-- FIXED: contact issue
+-- FIXED: timezone showing in blog page of Admin Dashboard
+
+VERSION 2.2 – RELEASED ON 13TH JANUARY, 2023
+-- Ecommerce Website Added for Tenant
+    -- Categories Management
+    -- Subcategories Management
+    -- Items Management
+        -- Physical Product
+        -- Digital Product
+    -- Orders Management
+    -- Unlimited Vartions of Items
+    -- Stock Management for Items
+    -- Variation-wise stock Management
+    -- Wishlists
+    -- Flash Sales (Timezone-Wise , will be Setup by Tenant)
+    -- Cart 
+    -- Checkout
+    -- Ads, Banner in Ecommerce Theme
+    -- Invoice Generate & Mail
+    -- Product Rating
+    -- Coupon
+    -- Tax
+    -- Shipping Methods with Shipping Charges
+    -- Rating Enable / Disable
+    -- Catalog Mode Enable / Disable
+    -- Shop Enable / Disable
+-- Ecommerce Theme Added
+    -- Base Color
+    -- RTL Support
+-- Coupon Added for Tenant Registration
+-- Registered Users Management for Tenant
+-- Secret Login to Tenant Dashboard by Admin
+-- Mail Templates for Tenant
+-- Timezone Settings for Tenant
+-- Website Title Change Option Added
+-- vCards Limit Added
+-- 10 Payment Gateways for Tenant
+-- Unlimited Offline Gateways for Tenant
+-- Tenant's Customer Panel
+-- Upgraded Laravel to Latest Version (9.x)
+-- Upgraded PHP Version (8.x)
+-- Upgraded Composer Packages
+-- FIXED: Tenant Ban Issue
+-- FIXED: Custom Domain Requests Mail Modal Issue
+-- FIXED: Pagination Design Issue
+-- FIXED: Lawyer Theme Topbar mail, phone print issue
+-- FIXED: Packages Active / Deactive issue in buy plan page of Tenant Dashboard
+-- FIXED: Fixed Contact Section issue in Theme 4 & Theme 5
+-- Many more untracked changes & fixes
+
+SMALL & URGENT UPDATE – RELEASED ON 27TH SEPTEMBER, 2022 [MAJOR & BIG UPDATE IS IN PROGRESS]
+Added Image extension validation in tenant's profile update page (Please download latest files & replace 'core/app/Http/Controllers/User/UserController.php' file in your current version)
+VERSION 2.0 – RELEASED ON 23RD MARCH, 2022
+-- 4 more Website Templates added (Lawyer, Industry, Digital Agency, Dark Version)
+-- 6 more vCard Templates added
+-- Added Package / Pricing Plan Upgrade / Downgrade option in Admin
+-- Add User option added in Admin
+-- Coupon During Registration 
+-- Added Google Analytics for Tenant
+-- Added Facebook Pixel for Tenant
+-- Added Tawk.to for Tenant
+-- Added Whatsapp chatf or Tenant
+-- Added Disqus for Tenant
+-- Added custom css, custom js option for Admin
+-- Admin Custom CSS option for Tenant
+-- Added more Mail Templates
+-- Preview Templates section added in main website
+-- Added 'www.' support in URL
+-- Improved cron job code
+-- Validation added for vcard profile image
+-- Fixed vcard URL issue
+-- Fixed email status change issue in Admin
+-- Fixed Authorize.net issue
+VERSION 1.1 (BUGS FIX RELEASE) – RELEASED ON 18TH DECEMBER, 2021
+- image size validation added vCard profile image
+- Fixed - notification not showing after form submission on tenant website
+- tawk.to issue fixed
+- offline gateway deactive issue fixed
+- payment log issue fixed in user & admin dashboard
+- skills page issue fixed in user dashboard
+- sitemap generate issue fixed in admin dashboard
+- invoice folder permission issue fixed
+VERSION 1.0 – RELEASED ON 20TH NOVEMBER, 2021
+Initial Release
