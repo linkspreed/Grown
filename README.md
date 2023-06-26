@@ -4,7 +4,7 @@
 Grown 🌐 - expand your internet presence 🌱 and get in touch with your customers 🫂 - for companies and private users
 
 
-## **[Changelog 🌐](https://github.com/linkspreed/Grown/blob/main/changelog.md)** **Check out the full Grown changelog**
+## **[Changelog 🌐](https://github.com/linkspreed/Grown/blob/main/changelog.txt)** **Check out the full Grown changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Grown/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Grown besides development**
 
 
